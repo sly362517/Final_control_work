@@ -1,6 +1,6 @@
 ## Task 1
 mkdir Kennel    
-cd ~/Kennel    
+cd Kennel    
 cat > home_animals    
 cat > pack_animals    
 cat home_animals pack_animals > animals    
@@ -11,7 +11,7 @@ ls -ali
 ## Task 2
 cd ..    
 mkdir Kennel_system    
-cd ~/Kennel    
+cd Kennel    
 mv mans_friends ~/Kennel_system    
 cd ~/Kennel_system    
 ls -ali    
